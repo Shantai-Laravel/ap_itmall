@@ -1,0 +1,11 @@
+{
+    "/admin/js/app_admin.js": "/admin/js/app_admin.js",
+    "/fronts_mobile/js/app_mobile.js": "/fronts_mobile/js/app_mobile.js",
+    "/fronts_mobile/css/app.css": "/fronts_mobile/css/app.css",
+    "/fronts_mobile/css/app_mobile.css": "/fronts_mobile/css/app_mobile.css",
+    "/fronts_mobile/css/bijoux-mobile.css": "/fronts_mobile/css/bijoux-mobile.css",
+    "/fronts_mobile/css/loungewear-mobile.css": "/fronts_mobile/css/loungewear-mobile.css",
+    "/fronts/css/desktop-homeware.css": "/fronts/css/desktop-homeware.css",
+    "/fronts/css/desktop-bijoux.css": "/fronts/css/desktop-bijoux.css",
+    "/fronts/js/app_desktop.js": "/fronts/js/app_desktop.js"
+}
